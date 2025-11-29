@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2025-11-09T16:25:45.4407269Z"
+    }
+  },
+  "parameters": {
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "b8ae745d-7906-4cba-9267-05b398333a0f"
+    },
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "API20251109172146ResourceGroup"
+    }
+  }
+}
